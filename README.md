@@ -6,9 +6,10 @@ Assets for press proposes. Inspite this repo is public, it doesn't mean that all
 
 Please, ask for permission first by contacting us through `press@findhit.com`.
 
-Thanks,
-José Moreira
+All findhit logos are trademark of `Junglecloud, Lda`.
 
+Thanks,
+findhit team
 
 TOS
 ===
