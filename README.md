@@ -10,8 +10,3 @@ All findhit logos are trademark of `Junglecloud, Lda`.
 
 Thanks,
 findhit team
-
-TOS
-===
-
-TODO
